@@ -16,7 +16,7 @@ Diary Writing, Create Notes etc.It is an effective tools to create digital copy 
 <p>Please download all files. Click on <a href="https://github.com/Biltu5/Notepad/archive/master.zip">Download</a>
   
 ## Description
-<pre>Run the <b>Notepad.py</b> file to get the GUI Application. Used </b>File</b> ribbon to open
+<pre>Run the <b>Notepad.py</b> file to get the GUI Application. Used <b>File</b> ribbon to open
 a file, create new file , Save current working file or Exit from notepad . Used  <b>Edit</b>  ribbon to 
 perform edit realated task ( Cut/copy/paste) & <b>Format</b> ribbon to give a attractive look of your page.</pre>
 
